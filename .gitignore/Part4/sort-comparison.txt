@@ -1,6 +1,0 @@
-sort1, which contains the simple bubble sort algorithm, takes 4490 instruction
-executions to complete.
-
-sort2, which contains the improves bubble sort algorithm, takes 4465 instruciton
-executions to complete
-
